@@ -1,4 +1,4 @@
-# Cadastro de Clientes
+# Formulário - Cadastro de Clientes
 HTML/CSS/JS - Cadastro de Clientes com uso de máscaras. 
 
 Aplicativo dinâmico feito com elementos visuais que indicam o devido preenchimento ou não do formulário. 
