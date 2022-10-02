@@ -1,7 +1,7 @@
-# Formulário - Cadastro de Clientes
-HTML/CSS/JS - Cadastro de Clientes com uso de máscaras. 
+# [FRONT END] Formulário - Cadastro de Clientes
+HTML/CSS/JS - Cadastro de Clientes
 
-Aplicativo dinâmico feito com elementos visuais que indicam o devido preenchimento ou não do formulário. 
+Aplicativo dinâmico feito com elementos visuais que indicam o devido preenchimento ou não do formulário, feito de maneira responsíva e com uso de máscaras no CPF e Telefone . 
 
 
 Print do formulário onde os dados NÃO SE ENQUADRAM (não preenchimeto)
